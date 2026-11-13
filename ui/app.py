@@ -2,11 +2,10 @@
 
 import pygame
 
+from .theme import DESKTOP
+
 # Window
 SCREEN_SIZE = 800, 600
-
-# Colors
-DESKTOP = (0, 128, 128)  # Teal
 
 # Misc
 FPS = 60
